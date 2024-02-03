@@ -1,0 +1,11 @@
+name: icesi-advanced-dl
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - ipython=8.15.0
+  - jupyterlab=4.0.8
+  - pip:
+    - -r requirements.txt
