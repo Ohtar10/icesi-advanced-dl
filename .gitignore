@@ -1,1 +1,5 @@
 tb_logs/
+models/
+lightning_logs/
+datasets/max_planck_weather_ts.csv
+__pycache__/
