@@ -3,3 +3,6 @@ models/
 lightning_logs/
 datasets/max_planck_weather_ts.csv
 __pycache__/
+Cora/
+*.graphml
+Unidad 2 - Graph Neural Networks/lib
