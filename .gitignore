@@ -6,3 +6,5 @@ __pycache__/
 Cora/
 *.graphml
 Unidad 2 - Graph Neural Networks/lib
+PROTEINS/
+amazon-products/
